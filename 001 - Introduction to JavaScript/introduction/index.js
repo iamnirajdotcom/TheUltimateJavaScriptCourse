@@ -7,6 +7,10 @@
     handwritten notes -> https://drive.google.com/drive/folders/1RcyvvOAxJtNc_mPLt9g-kTHIMUZ3uD8z
 
     <<<<<<<<<<<< see you in the next module >>>>>>>>>>>>>
+    ------------------------------------------------------
+    |      Credit for notes, and inspiration goes to     |
+    |                  @CodeWithHarry                    |
+    ------------------------------------------------------
 */
 
 console.log("my username in noble niraj")
