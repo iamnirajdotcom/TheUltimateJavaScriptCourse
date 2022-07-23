@@ -90,6 +90,7 @@ const firstNum = 89 // when you redefine it error will come
 //    let and const variable are not initialized
 
     //  What is hoisting ?
+// read from the link-> https://www.programiz.com/javascript/hoisting#:~:text=Hoisting%20in%20JavaScript%20is%20a%20behavior%20in%20which,no%20value%2C%20undefined%20value%20is%20assigned%20to%20it.
 
 
 
