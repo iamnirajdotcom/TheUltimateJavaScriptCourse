@@ -6,6 +6,8 @@
 //JavaScript is the programming language of the Web.
 //JavaScript is easy to learn.
 
+// click on the link to read the intro of javascript.
+// -> https://www.codingninjas.com/codestudio/guided-paths/basics-of-javascript/content/160175/offering/2096137
 
 console.log("my username in noble niraj")
 
