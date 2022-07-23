@@ -60,10 +60,4 @@ console.log(a,_num,$num2,Num)
 //  const
 // for declaring the constants
 
-/*
-    <<<<<<<<<<<< see you in the next module >>>>>>>>>>>>>
-    ------------------------------------------------------
-    |      Credit for notes, and inspiration goes to     |
-    |                  @CodeWithHarry                    |
-    ------------------------------------------------------
- */
+
