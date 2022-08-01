@@ -72,14 +72,22 @@
 
 // -------------------------------------CODE-------------------------------------------
 
-const firstNum = 45
-console.log(firstNum) //45
+// const firstNum = 45
+// console.log(firstNum) //45
 
-firstNum = 56 // when you try to update value error will come
+// firstNum = 56 // when you try to update value error will come
 // TypeError: Assignment to constant variable.
 
-const firstNum = 89 // when you redefine it error will come
+// const firstNum = 89 // when you redefine it error will come
 //TypeError: Assignment to constant variable.
+
+// {
+//     const firstNum = 78
+//     // this is not redefining because this does not change the value of constant firstNum
+//     console.log(firstNum)  // 78
+// }
+//
+// console.log(firstNum) // 45
 
 
 // -------------------------------------CODE-------------------------------------------
@@ -89,8 +97,33 @@ const firstNum = 89 // when you redefine it error will come
 //    But while var variable are initialized with undefined whereas,
 //    let and const variable are not initialized
 
+//    Hoisting can cause undesirable outcomes in your program.
+//    And it is best to declare variables and functions first before using them and avoid hoisting.
+
     //  What is hoisting ?
 // read from the link-> https://www.programiz.com/javascript/hoisting#:~:text=Hoisting%20in%20JavaScript%20is%20a%20behavior%20in%20which,no%20value%2C%20undefined%20value%20is%20assigned%20to%20it.
+
+// -------------------------------------CODE-------------------------------------------
+
+// 6] const must be initialized during declaration unlike let and var
+
+// -------------------------------------CODE-------------------------------------------
+
+// var variable  // allowed
+// console.log(variable)
+//
+// let variable2  // allowed
+// console.log(variable2)
+//
+// // in case of const you need to define it with initialization
+// // const variable3  // Missing initializer in const declaration
+// const variable3 = 45;
+// console.log(variable3)
+
+// -------------------------------------CODE-------------------------------------------
+
+
+
 
 
 
