@@ -47,6 +47,7 @@ console.log(varString, varString2, varString3)
 let varSymbol =Symbol("I am a nice symbol")
 const value1 = Symbol('hello');
 const value2 = Symbol('hello');
+console.log(varSymbol.description)
 console.log(value1 === value2); // false
 // Though value1 and value2 both contain the same description, they are different.
 
@@ -193,6 +194,6 @@ console.log(student)
 delete student.class2
 console.log(student)
 
-//----------------------------------------------------------------------------------------------------
-// As a general rule, always declare a variable with const unless you know that the value will change.
-//----------------------------------------------------------------------------------------------------
+//----------------------------------------------------------------------------------------------------//
+// As a general rule, always declare a variable with const unless you know that the value will change //
+//----------------------------------------------------------------------------------------------------//
