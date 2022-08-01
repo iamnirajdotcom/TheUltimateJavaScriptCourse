@@ -6,6 +6,7 @@
     Before we start the lecture let's get familiar with the naming convention of javascript files.
     1] all letter should be lower-case.
     2] may include underscore(_) or dashes(-) no other punctuation.
+    3] can start with number also.
     
     What is variable ?
     -> A variable is a container that stores a value.
